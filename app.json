@@ -77,7 +77,7 @@
             "value": "true"
         },
         "HEROKU_API_KEY": {
-            "description": "https://dashboard.heroku.com/account Click this link. Scroll down for the API key. Then click the Reveal button. Copy the API key and paste the API Key empty box below.",
+            "description": "https:/senarathnagamini/dashboard.heroku.com/account Click this link. Scroll down for the API key. Then click the Reveal button. Copy the API key and paste the API Key empty box below.",
             "required": true
         },
         "HEROKU_APP_NAME": {
